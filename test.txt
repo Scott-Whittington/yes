@@ -8,7 +8,7 @@
         "type": "Point",
         "coordinates": [
           -166,
-          30
+          31
         ]
       }
     }
